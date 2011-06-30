@@ -1,0 +1,16 @@
+/*
+	DEFINITION  IE7 stylesheet
+	PROJECT		Project name
+    VERSION		15-10-2010
+*/
+
+/* Clearfix (cf. http://nicolasgallagher.com/micro-clearfix-hack) */
+.cf { zoom:1;}
+/* Remove default scrollbars (cf. http://css-tricks.com/snippets/css/remove-scrollbar-from-textarea-in-ie) */
+textarea { overflow:auto;}
+/* Fix resizing images (cf. http://css-tricks.com/ie-fix-bicubic-scaling-for-images) */
+img { -ms-interpolation-mode:bicubic;}
+/* IE 7 bug */
+a abbr, a acronym { text-decoration:underline;}
+/* Align checkboxes, radios, text inputs with their label (cf. http://tjkdesign.com/ez-css/css/base.css) */
+input[type="checkbox"] { vertical-align:baseline;}
