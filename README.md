@@ -1,8 +1,7 @@
-Portfolio du studio Poska
-=========================
+Poska web studio portfolio
+==========================
 
-Vous trouverez dans ce dépôt quelques exemples d'intégrations HTML/CSS réalisées par le studio Poska.
+In this repository, you'll find some of the front-end projects realised by Poska.
+For more information or if you want to get in touch, please find us at [poska.fr](http://www.poska.fr)
 
-Pour plus de détails, retrouvez-nous sur [poska.fr](http://www.poska.fr).
-
-L'équipe de Poska.
+The Poska team
