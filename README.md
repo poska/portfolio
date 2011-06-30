@@ -1,8 +1,8 @@
-Le Portfolio de Poska
-=====================
+Portfolio du studio Poska
+=========================
 
-Vous trouverez dans ce repo quelques exemples de réalisations (intégration) du Studio Poska.
+Vous trouverez dans ce dépôt quelques exemples d'intégrations HTML/CSS réalisées par le studio Poska.
 
-Pour plus de détails ou pour voir un portfolio avec plus d'images et moins de code, retrouvez-nous sur [poska.fr](http://www.poska.fr).
+Pour plus de détails, retrouvez-nous sur [poska.fr](http://www.poska.fr).
 
 L'équipe de Poska.
